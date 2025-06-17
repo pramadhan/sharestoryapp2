@@ -2,12 +2,12 @@
   "name": "shareStory",
   "short_name": "shareStory",
   "description": "A simple SPA for sharing stories with PWA features.",
-  "start_url": "/shareStroty/",
+  "start_url": "/sharestoryapp2/",
   "display": "standalone",
   "background_color": "#f7f8fa",
   "theme_color": "#1976d2",
   "orientation": "portrait",
-  "scope": "/shareStroty/",
+  "scope": "/sharestoryapp2/",
   "icons": [
     {
       "src": "public/images/logo.png",
